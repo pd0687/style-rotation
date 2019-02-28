@@ -16,7 +16,7 @@ features:
 	lag-1 monthly return spread
 
 objective: formulate a model that predicts when to switch allocation
-	potential models: logreg, SVM, DT, NN
+	potential models: logreg, SVM, DT, RF, NN
 	ensemble model is possible
 
 monthly data is available dating back to early 2000
