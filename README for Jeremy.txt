@@ -20,3 +20,5 @@ objective: formulate a model that predicts when to switch allocation
 	ensemble model is possible
 
 monthly data is available dating back to early 2000
+
+20190306: edited 500 and 600 data in order to reflect total return (previously the time series were price return)
